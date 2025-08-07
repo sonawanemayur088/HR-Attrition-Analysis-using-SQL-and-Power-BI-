@@ -39,7 +39,7 @@ Columns include: `Employee_ID`, `Age`, `Attrition`, `Business_Travel`, `Departme
 Dashboard Preview:  
 ![HR Dashboard](https://github.com/sonawanemayur088/HR-Attrition-Analysis-using-SQL-and-Power-BI-/blob/main/HR%20Attrition%20Dashboard.png) 
 
-## 👤 Author  
+## 👤 Author
 **Mayur Sonawane**  
 📧 sonawanemayur088@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/mayur-sonawane-analyst) 
+🔗 www.linkedin.com/in/mayur-sonawane-analyst
